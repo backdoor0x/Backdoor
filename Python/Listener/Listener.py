@@ -74,7 +74,7 @@ def help():
 
         save_ks            <==>    Save Captured KeyStrokes
 
-        download           <==>    Download the specified File from the target
+        download [file]    <==>    Download the specified File from the target
 
         upload             <==>    Upload the specified File to the target
 
